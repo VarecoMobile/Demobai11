@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bai11_Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="optionMenu">Option Menu</string>
+    <string name="contexMenu">Context Menu</string>
+    <string name="title_activity_option_menu">OptionMenu</string>
+    <string name="title_activity_context_menu">ContextMenu</string>
+
+    <color name="clrred">#FF0000</color>
+    <color name="clrgreen">#008000</color>
+    <color name="clrblue">#000080</color>
+
+</resources>
